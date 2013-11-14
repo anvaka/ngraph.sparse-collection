@@ -1,0 +1,21 @@
+{
+  "name": "ngraph.sparse-collection",
+  "version": "0.0.1",
+  "description": "Subset of the University of Florida sparse matrix collection",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ngraph.sparse-collection.git"
+  },
+  "keywords": [
+    "ngraph",
+    "ngraphjs",
+    "sparse",
+    "matrix"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/anvaka/ngraph.sparse-collection/issues"
+  }
+}
