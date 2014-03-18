@@ -1,6 +1,6 @@
 {
   "name": "ngraph.sparse-collection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Subset of the University of Florida sparse matrix collection",
   "main": "index.js",
   "repository": {
