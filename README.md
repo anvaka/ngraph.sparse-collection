@@ -32,6 +32,16 @@ var mtxObject = require('ngraph.sparse-collection/HB/plat1919'),
 console.log(graph.getLinksCount());
 ```
 
+How it's done
+=============
+
+This collection was generated from public data set of [University of Florida Sparse Matrix Collection](http://aws.amazon.com/datasets/2379). I've mounted image to ec2 host, and then with help of this [100 lines of code](https://github.com/anvaka/sparsematricesconverter) converted small subset of `HB` and `LPnetlib` folders into CommonJS module.
+
+Caveat
+------
+Conversion itself is done with [mtx parser](https://github.com/anvaka/ngraph.serialization/blob/master/mtx/mtxParser.js). To save space this parser does not save loops (edges which start and end at the same vertex). Please let me know if it's a deal breaker - I'll make sure to fix this.
+
+
 Citation
 --------
 * T. A. Davis, The University of Florida Sparse Matrix Collection, ACM Transactions on Mathematical Software (submitted, 2009), also available as a tech report at http://www.cise.ufl.edu/~davis/techreports/matrices.pdf 
