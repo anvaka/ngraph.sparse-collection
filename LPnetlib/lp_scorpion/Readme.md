@@ -86,4 +86,4 @@
 
                                                                            
 
-![LPnetlib/lp_scorpion](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scorpion.gif)
+![LPnetlib/lp_scorpion](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scorpion.gif)

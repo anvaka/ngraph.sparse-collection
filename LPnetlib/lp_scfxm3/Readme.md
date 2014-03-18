@@ -82,4 +82,4 @@
 
                                                                            
 
-![LPnetlib/lp_scfxm3](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scfxm3.gif)
+![LPnetlib/lp_scfxm3](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scfxm3.gif)

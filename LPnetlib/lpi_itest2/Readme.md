@@ -88,4 +88,4 @@
 
                                                                              
 
-![LPnetlib/lpi_itest2](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_itest2.gif)
+![LPnetlib/lpi_itest2](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_itest2.gif)

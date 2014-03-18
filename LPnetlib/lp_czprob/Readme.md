@@ -84,4 +84,4 @@
 
  From John Reid.  Previously named "GUB".                                  
 
-![LPnetlib/lp_czprob](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_czprob.gif)
+![LPnetlib/lp_czprob](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_czprob.gif)

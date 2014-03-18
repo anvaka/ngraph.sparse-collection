@@ -98,4 +98,4 @@
 
  Added to Netlib on 27 June 1989                                           
 
-![LPnetlib/lp_lotfi](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_lotfi.gif)
+![LPnetlib/lp_lotfi](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_lotfi.gif)

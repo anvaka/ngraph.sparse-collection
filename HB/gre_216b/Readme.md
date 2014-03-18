@@ -18,4 +18,4 @@
 
  kind: directed weighted graph
 
-![HB/gre_216b](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@gre_216b.gif)
+![HB/gre_216b](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@gre_216b.gif)

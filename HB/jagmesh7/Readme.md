@@ -18,4 +18,4 @@
 
  kind: 2D/3D problem
 
-![HB/jagmesh7](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@jagmesh7.gif)
+![HB/jagmesh7](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@jagmesh7.gif)

@@ -18,4 +18,4 @@
 
  kind: economic problem
 
-![HB/wm1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@wm1.gif)
+![HB/wm1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@wm1.gif)

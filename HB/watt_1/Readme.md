@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/watt_1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@watt_1.gif)
+![HB/watt_1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@watt_1.gif)

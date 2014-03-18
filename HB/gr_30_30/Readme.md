@@ -18,4 +18,4 @@
 
  kind: 2D/3D problem
 
-![HB/gr_30_30](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@gr_30_30.gif)
+![HB/gr_30_30](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@gr_30_30.gif)

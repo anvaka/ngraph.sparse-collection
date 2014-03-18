@@ -120,4 +120,4 @@
 
                                                                            
 
-![LPnetlib/lp_sierra](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sierra.gif)
+![LPnetlib/lp_sierra](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sierra.gif)

@@ -94,4 +94,4 @@
 
  Added to Netlib on  15 June 1990                                          
 
-![LPnetlib/lp_maros](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_maros.gif)
+![LPnetlib/lp_maros](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_maros.gif)

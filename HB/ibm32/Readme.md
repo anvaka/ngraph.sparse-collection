@@ -18,4 +18,4 @@
 
  kind: directed graph
 
-![HB/ibm32](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@ibm32.gif)
+![HB/ibm32](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@ibm32.gif)

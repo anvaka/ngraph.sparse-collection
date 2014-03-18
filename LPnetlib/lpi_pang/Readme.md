@@ -66,4 +66,4 @@
 
                                                                              
 
-![LPnetlib/lpi_pang](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_pang.gif)
+![LPnetlib/lpi_pang](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_pang.gif)

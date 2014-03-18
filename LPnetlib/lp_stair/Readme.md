@@ -144,4 +144,4 @@
 
                                                                                
 
-![LPnetlib/lp_stair](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_stair.gif)
+![LPnetlib/lp_stair](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_stair.gif)

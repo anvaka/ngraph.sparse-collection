@@ -22,4 +22,4 @@
 
  duplicate of HB/bcsstk06
 
-![HB/bcsstk07](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstk07.gif)
+![HB/bcsstk07](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstk07.gif)

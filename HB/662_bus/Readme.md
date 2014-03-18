@@ -18,4 +18,4 @@
 
  kind: power network problem
 
-![HB/662_bus](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@662_bus.gif)
+![HB/662_bus](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@662_bus.gif)

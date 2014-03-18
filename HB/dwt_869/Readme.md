@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/dwt_869](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@dwt_869.gif)
+![HB/dwt_869](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@dwt_869.gif)

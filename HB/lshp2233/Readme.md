@@ -18,4 +18,4 @@
 
  kind: thermal problem
 
-![HB/lshp2233](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@lshp2233.gif)
+![HB/lshp2233](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@lshp2233.gif)

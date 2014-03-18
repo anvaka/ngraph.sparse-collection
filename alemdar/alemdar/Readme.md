@@ -18,4 +18,4 @@
 
  kind: 2D/3D problem
 
-![Alemdar/Alemdar](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/Alemdar@Alemdar.gif)
+![Alemdar/Alemdar](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/Alemdar@Alemdar.gif)

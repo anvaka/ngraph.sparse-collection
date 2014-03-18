@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/can_1072](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@can_1072.gif)
+![HB/can_1072](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@can_1072.gif)

@@ -116,4 +116,4 @@
 
  80BAU3B      9.8722419241E+05     9.8722952818E+05                        
 
-![LPnetlib/lp_80bau3b](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_80bau3b.gif)
+![LPnetlib/lp_80bau3b](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_80bau3b.gif)

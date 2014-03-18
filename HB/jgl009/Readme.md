@@ -18,4 +18,4 @@
 
  kind: counter-example problem
 
-![HB/jgl009](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@jgl009.gif)
+![HB/jgl009](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@jgl009.gif)

@@ -100,4 +100,4 @@
 
  Added to Netlib on 27 June 1989                                           
 
-![LPnetlib/lp_cycle](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_cycle.gif)
+![LPnetlib/lp_cycle](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_cycle.gif)

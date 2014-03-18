@@ -96,4 +96,4 @@
 
                                                                              
 
-![LPnetlib/lpi_refinery](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_refinery.gif)
+![LPnetlib/lpi_refinery](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_refinery.gif)

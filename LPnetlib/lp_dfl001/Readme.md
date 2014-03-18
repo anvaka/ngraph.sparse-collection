@@ -210,4 +210,4 @@
 
                                                                            
 
-![LPnetlib/lp_dfl001](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_dfl001.gif)
+![LPnetlib/lp_dfl001](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_dfl001.gif)

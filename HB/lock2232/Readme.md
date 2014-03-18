@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/lock2232](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@lock2232.gif)
+![HB/lock2232](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@lock2232.gif)

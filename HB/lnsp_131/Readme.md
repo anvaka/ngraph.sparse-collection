@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/lnsp_131](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@lnsp_131.gif)
+![HB/lnsp_131](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@lnsp_131.gif)

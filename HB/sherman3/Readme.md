@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/sherman3](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@sherman3.gif)
+![HB/sherman3](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@sherman3.gif)

@@ -22,4 +22,4 @@
 
  next: HB/bp_1200 first: HB/bp_0
 
-![HB/bp_1000](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@bp_1000.gif)
+![HB/bp_1000](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@bp_1000.gif)

@@ -78,4 +78,4 @@
 
  Added to Netlib on 6 May 1988                                             
 
-![LPnetlib/lp_agg3](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_agg3.gif)
+![LPnetlib/lp_agg3](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_agg3.gif)

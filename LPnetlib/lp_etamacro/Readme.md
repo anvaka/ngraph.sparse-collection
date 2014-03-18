@@ -150,4 +150,4 @@
 
                                                                                
 
-![LPnetlib/lp_etamacro](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_etamacro.gif)
+![LPnetlib/lp_etamacro](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_etamacro.gif)

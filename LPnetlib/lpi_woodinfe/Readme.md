@@ -92,4 +92,4 @@
 
                                                                              
 
-![LPnetlib/lpi_woodinfe](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_woodinfe.gif)
+![LPnetlib/lpi_woodinfe](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_woodinfe.gif)

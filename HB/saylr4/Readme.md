@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/saylr4](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@saylr4.gif)
+![HB/saylr4](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@saylr4.gif)

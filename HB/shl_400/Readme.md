@@ -22,4 +22,4 @@
 
  next: - first: HB/shl_0
 
-![HB/shl_400](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@shl_400.gif)
+![HB/shl_400](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@shl_400.gif)

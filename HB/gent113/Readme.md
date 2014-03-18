@@ -18,4 +18,4 @@
 
  kind: statistical/mathematical problem
 
-![HB/gent113](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@gent113.gif)
+![HB/gent113](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@gent113.gif)

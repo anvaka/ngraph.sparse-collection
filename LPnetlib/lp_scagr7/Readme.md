@@ -104,4 +104,4 @@
 
                                                                            
 
-![LPnetlib/lp_scagr7](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scagr7.gif)
+![LPnetlib/lp_scagr7](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scagr7.gif)

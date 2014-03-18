@@ -102,4 +102,4 @@
 
  Source: consulting.                                                       
 
-![LPnetlib/lp_standgub](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_standgub.gif)
+![LPnetlib/lp_standgub](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_standgub.gif)

@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/sstmodel](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@sstmodel.gif)
+![HB/sstmodel](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@sstmodel.gif)

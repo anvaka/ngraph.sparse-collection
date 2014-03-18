@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/nos4](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@nos4.gif)
+![HB/nos4](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@nos4.gif)

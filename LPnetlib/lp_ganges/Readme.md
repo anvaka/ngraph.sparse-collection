@@ -110,4 +110,4 @@
 
  GANGES      -1.0958573613E+05    -1.0958577038E+05                        
 
-![LPnetlib/lp_ganges](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_ganges.gif)
+![LPnetlib/lp_ganges](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_ganges.gif)

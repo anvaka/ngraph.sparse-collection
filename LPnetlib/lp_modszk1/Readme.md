@@ -104,4 +104,4 @@
 
                                                                            
 
-![LPnetlib/lp_modszk1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_modszk1.gif)
+![LPnetlib/lp_modszk1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_modszk1.gif)

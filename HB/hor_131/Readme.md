@@ -18,4 +18,4 @@
 
  kind: directed weighted graph
 
-![HB/hor_131](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@hor_131.gif)
+![HB/hor_131](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@hor_131.gif)

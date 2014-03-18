@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/blckhole](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@blckhole.gif)
+![HB/blckhole](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@blckhole.gif)

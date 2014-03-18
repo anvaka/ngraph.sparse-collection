@@ -110,4 +110,4 @@
 
  Added to Netlib on  30 Oct. 1989                                          
 
-![LPnetlib/lp_d2q06c](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_d2q06c.gif)
+![LPnetlib/lp_d2q06c](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_d2q06c.gif)

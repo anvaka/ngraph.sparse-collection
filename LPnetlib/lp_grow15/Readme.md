@@ -98,4 +98,4 @@
 
                                                                            
 
-![LPnetlib/lp_grow15](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_grow15.gif)
+![LPnetlib/lp_grow15](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_grow15.gif)

@@ -18,4 +18,4 @@
 
  kind: materials problem
 
-![HB/arc130](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@arc130.gif)
+![HB/arc130](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@arc130.gif)

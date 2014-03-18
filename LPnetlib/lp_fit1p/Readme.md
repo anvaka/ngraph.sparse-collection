@@ -114,4 +114,4 @@
 
                                                                            
 
-![LPnetlib/lp_fit1p](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_fit1p.gif)
+![LPnetlib/lp_fit1p](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_fit1p.gif)

@@ -82,4 +82,4 @@
 
                                                                            
 
-![LPnetlib/lp_ship04l](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_ship04l.gif)
+![LPnetlib/lp_ship04l](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_ship04l.gif)

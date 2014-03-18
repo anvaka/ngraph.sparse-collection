@@ -104,4 +104,4 @@
 
  FFFFF800     5.5567956482E+05     5.5567958085E+05                        
 
-![LPnetlib/lp_fffff800](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_fffff800.gif)
+![LPnetlib/lp_fffff800](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_fffff800.gif)

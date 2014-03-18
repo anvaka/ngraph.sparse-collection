@@ -80,4 +80,4 @@
 
                                                                            
 
-![LPnetlib/lp_agg](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_agg.gif)
+![LPnetlib/lp_agg](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_agg.gif)

@@ -18,4 +18,4 @@
 
  kind: 2D/3D problem
 
-![HB/plat362](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@plat362.gif)
+![HB/plat362](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@plat362.gif)

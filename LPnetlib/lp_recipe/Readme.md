@@ -96,4 +96,4 @@
 
                                                                            
 
-![LPnetlib/lp_recipe](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_recipe.gif)
+![LPnetlib/lp_recipe](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_recipe.gif)

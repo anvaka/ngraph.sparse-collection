@@ -22,4 +22,4 @@
 
  duplicate of HB/jagmesh2
 
-![HB/lshp1009](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@lshp1009.gif)
+![HB/lshp1009](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@lshp1009.gif)

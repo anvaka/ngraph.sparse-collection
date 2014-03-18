@@ -96,4 +96,4 @@
 
                                                                            
 
-![LPnetlib/lp_gfrd_pnc](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_gfrd_pnc.gif)
+![LPnetlib/lp_gfrd_pnc](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_gfrd_pnc.gif)

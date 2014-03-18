@@ -114,4 +114,4 @@
 
  Laboratory, Stanford University.                                          
 
-![LPnetlib/lp_pilot_we](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_pilot_we.gif)
+![LPnetlib/lp_pilot_we](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_pilot_we.gif)

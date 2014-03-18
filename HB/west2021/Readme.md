@@ -18,4 +18,4 @@
 
  kind: chemical process simulation problem
 
-![HB/west2021](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@west2021.gif)
+![HB/west2021](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@west2021.gif)

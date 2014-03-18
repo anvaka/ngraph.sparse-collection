@@ -104,4 +104,4 @@
 
  Added to Netlib on 26 March 1993                                          
 
-![LPnetlib/lp_d6cube](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_d6cube.gif)
+![LPnetlib/lp_d6cube](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_d6cube.gif)

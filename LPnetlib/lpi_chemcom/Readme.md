@@ -96,4 +96,4 @@
 
                                                                              
 
-![LPnetlib/lpi_chemcom](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_chemcom.gif)
+![LPnetlib/lpi_chemcom](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_chemcom.gif)

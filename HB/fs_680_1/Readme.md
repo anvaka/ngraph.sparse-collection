@@ -22,4 +22,4 @@
 
  next: HB/fs_680_2 first: HB/fs_680_1
 
-![HB/fs_680_1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@fs_680_1.gif)
+![HB/fs_680_1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@fs_680_1.gif)

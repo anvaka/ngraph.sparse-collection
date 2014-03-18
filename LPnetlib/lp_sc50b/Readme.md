@@ -82,4 +82,4 @@
 
  Added to Netlib on  6 April 1989                                          
 
-![LPnetlib/lp_sc50b](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sc50b.gif)
+![LPnetlib/lp_sc50b](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sc50b.gif)

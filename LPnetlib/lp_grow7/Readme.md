@@ -96,4 +96,4 @@
 
  pp. 251-292.                                                              
 
-![LPnetlib/lp_grow7](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_grow7.gif)
+![LPnetlib/lp_grow7](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_grow7.gif)

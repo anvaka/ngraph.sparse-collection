@@ -18,4 +18,4 @@
 
  kind: power network problem
 
-![HB/bcspwr04](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@bcspwr04.gif)
+![HB/bcspwr04](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@bcspwr04.gif)

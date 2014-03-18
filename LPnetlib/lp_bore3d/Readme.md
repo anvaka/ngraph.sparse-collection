@@ -94,4 +94,4 @@
 
                                                                            
 
-![LPnetlib/lp_bore3d](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bore3d.gif)
+![LPnetlib/lp_bore3d](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bore3d.gif)

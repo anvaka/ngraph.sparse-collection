@@ -128,4 +128,4 @@
 
                                                                            
 
-![LPnetlib/lp_greenbea](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_greenbea.gif)
+![LPnetlib/lp_greenbea](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_greenbea.gif)

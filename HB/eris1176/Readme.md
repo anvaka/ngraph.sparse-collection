@@ -18,4 +18,4 @@
 
  kind: power network problem
 
-![HB/eris1176](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@eris1176.gif)
+![HB/eris1176](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@eris1176.gif)

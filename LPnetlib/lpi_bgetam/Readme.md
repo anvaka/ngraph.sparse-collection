@@ -70,4 +70,4 @@
 
                                                                              
 
-![LPnetlib/lpi_bgetam](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_bgetam.gif)
+![LPnetlib/lpi_bgetam](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_bgetam.gif)

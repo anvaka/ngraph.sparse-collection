@@ -80,4 +80,4 @@
 
  Test Problems", Math. Prog. 20 (1981), pp. 245-250.                       
 
-![LPnetlib/lp_scfxm1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scfxm1.gif)
+![LPnetlib/lp_scfxm1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_scfxm1.gif)

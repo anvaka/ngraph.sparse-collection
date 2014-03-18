@@ -120,4 +120,4 @@
 
                                                                                
 
-![LPnetlib/lp_israel](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_israel.gif)
+![LPnetlib/lp_israel](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_israel.gif)

@@ -18,4 +18,4 @@
 
  kind: semiconductor device problem
 
-![HB/jpwh_991](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@jpwh_991.gif)
+![HB/jpwh_991](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@jpwh_991.gif)

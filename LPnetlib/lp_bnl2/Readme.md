@@ -90,4 +90,4 @@
 
  Added to Netlib on 30 Oct. 1989                                           
 
-![LPnetlib/lp_bnl2](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bnl2.gif)
+![LPnetlib/lp_bnl2](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bnl2.gif)

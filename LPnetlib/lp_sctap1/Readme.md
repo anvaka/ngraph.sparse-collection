@@ -84,4 +84,4 @@
 
                                                                            
 
-![LPnetlib/lp_sctap1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sctap1.gif)
+![LPnetlib/lp_sctap1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_sctap1.gif)

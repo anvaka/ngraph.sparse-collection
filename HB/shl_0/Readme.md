@@ -22,4 +22,4 @@
 
  next: HB/shl_200 first: HB/shl_0
 
-![HB/shl_0](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@shl_0.gif)
+![HB/shl_0](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@shl_0.gif)

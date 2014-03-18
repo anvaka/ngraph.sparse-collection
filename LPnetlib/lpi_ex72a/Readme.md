@@ -94,4 +94,4 @@
 
                                                                              
 
-![LPnetlib/lpi_ex72a](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_ex72a.gif)
+![LPnetlib/lpi_ex72a](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_ex72a.gif)

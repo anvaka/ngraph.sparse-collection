@@ -90,4 +90,4 @@
 
                                                                            
 
-![LPnetlib/lp_woodw](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_woodw.gif)
+![LPnetlib/lp_woodw](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_woodw.gif)

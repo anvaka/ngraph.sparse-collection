@@ -100,4 +100,4 @@
 
                                                                                
 
-![LPnetlib/lp_truss](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_truss.gif)
+![LPnetlib/lp_truss](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_truss.gif)

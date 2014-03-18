@@ -18,4 +18,4 @@
 
  kind: chemical process simulation problem
 
-![HB/impcol_c](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@impcol_c.gif)
+![HB/impcol_c](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@impcol_c.gif)

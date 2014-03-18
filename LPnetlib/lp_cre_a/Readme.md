@@ -78,4 +78,4 @@
 
                                                                                
 
-![LPnetlib/lp_cre_a](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_cre_a.gif)
+![LPnetlib/lp_cre_a](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_cre_a.gif)

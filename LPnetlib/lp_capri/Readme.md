@@ -126,4 +126,4 @@
 
                                                                                
 
-![LPnetlib/lp_capri](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_capri.gif)
+![LPnetlib/lp_capri](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_capri.gif)

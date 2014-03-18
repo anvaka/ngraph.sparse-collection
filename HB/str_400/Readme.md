@@ -22,4 +22,4 @@
 
  next: HB/str_600 first: HB/str_0
 
-![HB/str_400](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@str_400.gif)
+![HB/str_400](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@str_400.gif)

@@ -18,4 +18,4 @@
 
  kind: 2D/3D problem
 
-![HB/mcfe](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@mcfe.gif)
+![HB/mcfe](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@mcfe.gif)

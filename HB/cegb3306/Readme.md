@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/cegb3306](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@cegb3306.gif)
+![HB/cegb3306](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@cegb3306.gif)

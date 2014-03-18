@@ -120,4 +120,4 @@
 
                                                                                
 
-![LPnetlib/lp_beaconfd](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_beaconfd.gif)
+![LPnetlib/lp_beaconfd](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_beaconfd.gif)

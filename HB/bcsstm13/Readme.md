@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/bcsstm13](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstm13.gif)
+![HB/bcsstm13](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstm13.gif)

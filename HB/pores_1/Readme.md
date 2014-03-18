@@ -18,4 +18,4 @@
 
  kind: computational fluid dynamics problem
 
-![HB/pores_1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@pores_1.gif)
+![HB/pores_1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@pores_1.gif)

@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/lund_b](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@lund_b.gif)
+![HB/lund_b](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@lund_b.gif)

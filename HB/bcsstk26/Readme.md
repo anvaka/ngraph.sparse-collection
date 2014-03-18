@@ -18,4 +18,4 @@
 
  kind: structural problem
 
-![HB/bcsstk26](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstk26.gif)
+![HB/bcsstk26](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@bcsstk26.gif)

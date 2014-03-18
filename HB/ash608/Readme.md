@@ -18,4 +18,4 @@
 
  kind: least squares problem
 
-![HB/ash608](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@ash608.gif)
+![HB/ash608](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@ash608.gif)

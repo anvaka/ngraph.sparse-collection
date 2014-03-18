@@ -22,4 +22,4 @@
 
  duplicate of HB/young1c
 
-![HB/young2c](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@young2c.gif)
+![HB/young2c](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@young2c.gif)

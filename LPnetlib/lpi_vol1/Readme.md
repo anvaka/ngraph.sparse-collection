@@ -98,4 +98,4 @@
 
                                                                              
 
-![LPnetlib/lpi_vol1](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_vol1.gif)
+![LPnetlib/lpi_vol1](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lpi_vol1.gif)

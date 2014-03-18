@@ -116,4 +116,4 @@
 
                                                                                
 
-![LPnetlib/lp_25fv47](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_25fv47.gif)
+![LPnetlib/lp_25fv47](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_25fv47.gif)

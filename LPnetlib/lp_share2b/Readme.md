@@ -120,4 +120,4 @@
 
                                                                                
 
-![LPnetlib/lp_share2b](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_share2b.gif)
+![LPnetlib/lp_share2b](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_share2b.gif)

@@ -88,4 +88,4 @@
 
                                                                            
 
-![LPnetlib/lp_vtp_base](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_vtp_base.gif)
+![LPnetlib/lp_vtp_base](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_vtp_base.gif)

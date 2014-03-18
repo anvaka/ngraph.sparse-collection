@@ -126,4 +126,4 @@
 
  Added to Netlib on  6 May 1988                                            
 
-![LPnetlib/lp_greenbeb](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_greenbeb.gif)
+![LPnetlib/lp_greenbeb](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_greenbeb.gif)

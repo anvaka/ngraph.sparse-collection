@@ -118,4 +118,4 @@
 
                                                                                
 
-![LPnetlib/lp_bandm](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bandm.gif)
+![LPnetlib/lp_bandm](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_bandm.gif)

@@ -118,4 +118,4 @@
 
                                                                                
 
-![LPnetlib/lp_adlittle](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_adlittle.gif)
+![LPnetlib/lp_adlittle](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/LPnetlib@lp_adlittle.gif)

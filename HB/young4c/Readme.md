@@ -40,4 +40,4 @@
 
  imaginary part, and thus appears here as a real matrix.            
 
-![HB/young4c](http://www2.research.att.com/~yifanhu/GALLERY/GRAPHS/GIF_SMALL/HB@young4c.gif)
+![HB/young4c](http://yifanhu.net/GALLERY/GRAPHS/GIF_SMALL/HB@young4c.gif)
