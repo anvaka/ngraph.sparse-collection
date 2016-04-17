@@ -10,7 +10,7 @@ Each file in this repository has the following format:
 module.exports = { 
  "recordsPerEdge": 3,
  "links": [...],
- "description: "..."
+ "description": "..."
 };
 ```
 
